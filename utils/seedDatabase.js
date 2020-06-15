@@ -28,7 +28,7 @@ const seedDatabase = async () => {
       firstName: "Sally", 
       lastName: "Doe",
       email: "SallyDoe@mail.com",
-      gpa: 3.7,
+      gpa: 3.2,
       campusId: 1 }),
   ]);
 };
